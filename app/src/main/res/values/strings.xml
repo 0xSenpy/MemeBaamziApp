@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MemeBaamzi</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="lessss_goooo">Lessss GOOOO</string>
+    <string-array name="subreddit_array">
+        <item>Select a Subreddit</item>
+        <item>IndianMeyMeys</item>
+        <item>dankmemes</item>
+        <item>memes</item>
+        <item>wholesomememes</item>
+        <item>SaimanSays</item>
+    </string-array>
+
+</resources>
